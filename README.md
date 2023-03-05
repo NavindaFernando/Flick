@@ -1,5 +1,5 @@
 <h3 align="center">
-Hey Portal :recycle:
+Flick :movie_camera:
 </h3>
 
 ![Screenshot (887)](https://user-images.githubusercontent.com/86073690/222964556-5e60b57a-0c3b-475c-8013-59b62395052b.png)
