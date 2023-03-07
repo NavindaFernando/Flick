@@ -1,5 +1,5 @@
 <h3 align="center">
-Flick :movie_camera:
+Flick :womans_hat:
 </h3>
 
 ![Screenshot (887)](https://user-images.githubusercontent.com/86073690/223329763-2910b17b-f410-4a4b-b21b-0534d0b76d75.png)
