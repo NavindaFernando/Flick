@@ -2,7 +2,7 @@
 Flick :movie_camera:
 </h3>
 
-![Screenshot (887)](https://user-images.githubusercontent.com/86073690/222964556-5e60b57a-0c3b-475c-8013-59b62395052b.png)
+![Screenshot (887)](https://user-images.githubusercontent.com/86073690/223329763-2910b17b-f410-4a4b-b21b-0534d0b76d75.png)
 
 ***
 
